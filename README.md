@@ -1,9 +1,6 @@
 <h1 align="center">Eaí! 👋, Eu sou o Vitor Hugo</h1>
 <h3 align="center">A passionate data, dev e tech from Brazil</h3>
 
-- 🔭 Atualmente estou trabalhando em [BootCamp Santander Mobile](https://web.digitalinnovation.one/users/v_canal88?tab=achievements)
-
-- 🌱 Estou estudando **Kotlin, Python, Azure, SQL**
 
 - 🤝 Procuro ajuda com **Programação**
 
